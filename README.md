@@ -1,9 +1,9 @@
 # Purpose
-This repo is created to store images for キャラぷ (The AI chat game)
+This repository was created to store images used for キャラぷ (Kyarapu), an AI chat game.
 ## Link to game
 https://s.kyarapu.com/s/6a2b2e13ae79cb5399f53a61
 ## Warning
-This simulate AI chat game is for sensitive purpose. So its adult contents. Please do not play if your age are under 18
+This AI chat game contains sensitive and adult content and is intended for users aged 18 or older. Please do not play if you are under 18.
 
 ## Plot Summary
 
