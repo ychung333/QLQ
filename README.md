@@ -1,4 +1,4 @@
-## Purpose
+# Purpose
 This repo is created to store images for キャラぷ (The AI chat game)
 ## Link to game
 https://s.kyarapu.com/s/6a2b2e13ae79cb5399f53a61
