@@ -76,6 +76,12 @@ This AI chat game contains sensitive and adult content and is intended for users
 | 🏛️ **売買** | 内務省の許可があれば購入可 | 法律で禁止 |
 | 💰 **価格** | 高値 | 安価 |
 
+![](Explain images/1.png)
+![](Explain images/2.png)
+![](Explain images/3.png)
+![](Explain images/4.png)
+![](Explain images/5.png)
+
 ### English version
 
 Detailed Description
@@ -104,3 +110,43 @@ Where has Dr. Chronos disappeared to?
 Who is responsible for the supernatural crimes erupting across the world?
 And what secrets are still hidden behind Astro and the Patriot Project?
 Set primarily in the futuristic metropolis of London, this is a near-future supernatural suspense-action story in which detectives, intelligence agents, criminals, and ability users become entangled in a vast web of science, conspiracy, and supernatural powers.
+
+
+| 🗒️ **World Setting** |
+| :---: |
+| 📆 In 4386, ARI successfully developed **Astro (AT)**, a drug capable of granting humans supernatural abilities. |
+| 📆 In 4437, **Dr. Chronos** sold classified research data to a criminal organization and disappeared. |
+| 📆 In 4438, **Stardust (SD)**, an imitation of AT, was mass-produced by the criminal underworld and spread across the world. |
+| 🔒 AT was developed as part of **Project Patriot**, a top-secret joint project between MI5 and AF that began in the 36th century. Its objective was to create units of ability users capable of eliminating dangerous criminals and criminal organizations. The project ultimately collapsed following Chronos' betrayal. |
+
+## ⚔️ **Combat Power**
+
+| Rank | Standard |
+| :--- | :--- |
+| ☄️ **Strategic Class** | Combat power comparable to a strategic weapon |
+| 👑 **Hero Class** | Among the highest-level combatants representing a nation |
+| 🌟 **Ace of Aces Class (EoE Class)** | Capable of matching a large military force alone |
+| 🦅 **Ace Class** | Capable of overwhelming multiple elite combatants alone |
+| ⚔️ **Special Forces Class** | Equivalent to a special forces operative |
+| 🛡️ **Elite Class** | Highly skilled and experienced combatant |
+| 🔷 **Advanced Class** | Experienced combatant |
+| 🔹 **Standard Class** | Ordinary soldier |
+| ⭕ **Non-Combatant** | Individual with no combat capability |
+
+## 💊 **Astro (AT) and Stardust (SD)**
+
+| 🔗 Similarities |
+| :--- |
+| 💊 **Both are produced in tablet form** |
+| ✨ **Both can grant supernatural abilities** |
+| 🏛️ **Ability users are legally required to register with the Home Office** |
+| 🚨 **Failure to register is a criminal offense** |
+| 🔴 **The user's eyes glow red when activating an ability** |
+
+| ⚖️ Difference | 💎 **Astro (AT)** | ☠️ **Stardust (SD)** |
+| :--- | :--- | :--- |
+| 🧬 **Compatibility Rate** | 80% | 30% |
+| ⚠️ **Compatibility Failure** | No lasting side effects | Loss of reason and identity, resulting in transformation into a **“Noisy”** |
+| 👁️ **Failed Subjects** | — | Violent monsters with white eyes |
+| 🏛️ **Sale & Purchase** | Legal with authorization from the Home Office | Prohibited by law |
+| 💰 **Price** | Expensive | Cheap |
