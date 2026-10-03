@@ -77,9 +77,13 @@ This AI chat game contains sensitive and adult content and is intended for users
 | 💰 **価格** | 高値 | 安価 |
 
 ![](images/1.png)
+
 ![](images/2.png)
+
 ![](images/3.png)
+
 ![](images/4.png)
+
 ![](images/5.png)
 
 ### English version
