@@ -76,15 +76,15 @@ This AI chat game contains sensitive and adult content and is intended for users
 | 🏛️ **売買** | 内務省の許可があれば購入可 | 法律で禁止 |
 | 💰 **価格** | 高値 | 安価 |
 
-![](images/1.png)
+![1](images/1.png)
 
-![](images/2.png)
+![2](images/2.png)
 
-![](images/3.png)
+![3](images/3.png)
 
-![](images/4.png)
+![4](images/4.png)
 
-![](images/5.png)
+![5](images/5.png)
 
 ### English version
 
